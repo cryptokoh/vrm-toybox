@@ -5,9 +5,9 @@
 This is a open source unity project to get you started with making games on unity with uniVRM
 
 # Dependencies 
-- UniVRM
+- UniVRM https://github.com/vrm-c/UniVRM
 
 # Unity Version
-- 2021.3.19f1
+- 2021.3.19f1 https://unity.com/releases/editor/whats-new/2021.3.19
   
 
